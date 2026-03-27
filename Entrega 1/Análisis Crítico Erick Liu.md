@@ -10,8 +10,6 @@
 
 ### La segunda idea es construir una comparación entre regiones “extremas” y regiones “centrales”, para observar si existen patrones diferentes dentro del país. Esta comparación podría tomar la forma de pequeños  módulos dentro de la webstory, donde se destaquen algunas regiones que, elección tras elección, se alejan del promedio nacional. Eso haría que la historia no quede solo en una visualización general, sino que también tenga momentos más específicos, centrados en ciertos territorios.
 
-### Una tercera idea complementaria sería incorporar una capa de contexto regional, por ejemplo con hitos políticos o institucionales relevantes para algunas elecciones. No se trataría de afirmar relaciones directas de causa y efecto, sino de dar herramientas para pensar por qué en ciertos momentos algunas regiones muestran comportamientos distintos. 
-
 ### Creo que este proyecto pertenece al arquetipo de **Observación**, porque busca analizar qué ocurre con los votos nulos y blancos cuando se observan en el tiempo y en el espacio de manera longitudinal. La investigación se centra en comparar elecciones y regiones para identificar cambios y posibles patrones en su comportamiento.
 
 ### Este arquetipo calza bien con nuestro tema porque los datos no apuntan tanto a revelar algo oculto, sino a registrar variaciones y regularidades de un fenómeno electoral generalmente poco observado. A través del mapa interactivo y la línea de tiempo, el proyecto permitirá ver si ciertas regiones concentran más votos nulos o blancos, si esas diferencias se mantienen en distintas elecciones o si cambian según el contexto político.
