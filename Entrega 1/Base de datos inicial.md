@@ -21,3 +21,9 @@
 ### Esta base es pertinente para la investigación porque permite observar directamente la evolución del voto nulo y blanco, tanto en el tiempo como entre distintas regiones. 
 
 ### Respecto a la metodología, los datos son recolectados durante cada elección a partir del conteo oficial de votos realizado en las mesas de votación a lo largo del país. 
+
+## **Página SERVEL**: https://www.servel.cl/centro-de-datos/resultados-electorales-historicos-gw3/ 
+
+## **Página BCN**: https://www.bcn.cl/siit/elecciones_historicas/  
+
+## **Página Tricel**: https://tribunalcalificador.cl/resultados_de_elecciones/
