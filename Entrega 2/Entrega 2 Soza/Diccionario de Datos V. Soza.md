@@ -1,0 +1,10 @@
+### Diccionario de Datos y Ficha Técnica Entrega 2
+
+# Los datos presentados en esta entrega tienen por fuente la página de la Biblioteca del Congreso Nacional dedicada a las elecciones históricas. Aquí dejaré el enlace (https://www.bcn.cl/siit/elecciones_historicas/eleciones.html?tipo=Presidenciales)
+# Las cifras de la última elección presidencial no se encontraban en la página por lo que en ese caso acudí a la página de resultados de Radio Biobío. Aquí dejo el enlace (https://www.biobiochile.cl/elecciones/segunda-vuelta-presidencial-2025/)
+
+# Los datos se podían extraer en formato CSV de la página, pero solo individualmente, al no saber como extraer toda la data necesaria para después desplegarla en una sola tabla, opté por armar la base pasando los datos yo mismo.
+
+# Dentro de las características de los datos desplegados, podemos encontrar que estos son estructurados y cuantitativos. En cuanto a su alcance, siento que es el suficiente para alcanzar el objetivo de nuestro proyecto. Las limitaciones de estos se encuentran relacionados al contexto temporal de estos datos. Por ejemplo como los datos van desde 1989, muchas regiones que existen ahora, en ese momento no existían, lo mismo con el voto obligatorio, se puede ver un salto en cifras enorme llegando a las elecciones de 2025.
+
+# La tabla comprende todas las elecciones presidenciales desde 1989 hasta la del año pasado. En ella se desglosan los votos totales y los nulos y blancos en conjunto, por región y finalmente con cantidades nacionales. Los datos de regiones estan por dos columnas, por ejemplo: Metropolitana Votos y Metropolitana Nulos y Blancos, en el excel decidí ponerlas en color azul y rojo respectivamente para facilitar la comprensión. Como comenté anteriormente, unas variables a tener en cuenta son el contexto de cada votación, regiones que están se dividen en dos, aparece el voto obligatorio, la crisis del estallido social que llevó más gente a las urnas, por poner ejemplos. Son hechos que teniendo el conocimiento de ellos, facilitan la comprensión de las cifras que estamos viendo.
