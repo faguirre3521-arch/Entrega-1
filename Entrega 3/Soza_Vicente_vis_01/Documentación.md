@@ -1,0 +1,9 @@
+# Documentación Vicente Soza
+
+#### El proceso para armar la visualización final fue lento. Primero tuvimos que hacer bases de datos singulares de cada elección que rescaten los candidatos, los votos que recibió cada uno en cada región y los nulos totales de la respectiva votación, incluyendo tanto primeras como segundas vueltas.
+
+#### El segundo paso fue crear la base de datos grande que rescate todos los datos necesarios. Esta siendo la Base de Datos Elecciones y candidatos. Acá se muestran los datos de cada elección y los votos que recibió cada candidato por región y tambien los votos totales y nulos totales. Por la naturaleza del sistema electoral tuvimos que representar canidatos más de una vez como es el caso de ME-O o José Antonio Kast.
+
+#### Una vez armada la base de datos hice los códigos correspondientes con el apoyo de la IA, así llegue (después de un par de intentos) a los gráficos que se ven. Los intentos fallidos fueron porque la visualización no era amigable (Se presentaban como columnas apiladas) y por un error de la base de datos misma. Para cada candidato ponía en su flia los nulos de la votación, es decir, el número correspondiente se podía repetir hasta 9 veces. Esto hizo que en la primera visualización los nulos se vieran mucho más grandes que cualquier otro candidato. Este error fue rectificado en la entrega final.
+
+#### Las preguntas que se pueden responder con la visualización creada son por ejemplo ¿Qué candidato ha sido el que ha acumulado más votos desde la vuelta a la democracia? Otra pregunta interesante sería, si juntaramos todos los votos que se han acumulado desde 1989 en presidenciales ¿Dónde se posicionarían los nulos acumulados? Una última pregunta relevante al momento de interpretar los datos sería ¿Cómo se han reflejado los cambios en el sistema electoral (voto obligatorio)?
