@@ -1,3 +1,4 @@
+¡pip install altair pandas
 from google.colab import files
 import matplotlib.pyplot as plt
 
