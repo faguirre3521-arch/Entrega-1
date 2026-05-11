@@ -1,0 +1,24 @@
+plt.figure(figsize=(12,6))
+
+plt.plot(
+    polarizacion_vs_nulos['anio'],
+    polarizacion_vs_nulos['score_final'],
+    marker='o',
+    label='Polarización'
+)
+
+plt.plot(
+    polarizacion_vs_nulos['anio'],
+    polarizacion_vs_nulos['porcentaje_nulos'],
+    marker='o',
+    label='Voto nulo (%)'
+)
+
+plt.title('Evolución de polarización y voto nulo en primera vuelta')
+plt.xlabel('Año')
+plt.ylabel('Valor')
+plt.xticks(polarizacion_vs_nulos['anio'], rotation=45)
+plt.legend()
+plt.grid(True)
+
+plt.show()
