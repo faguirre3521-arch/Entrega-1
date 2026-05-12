@@ -1,8 +1,8 @@
 # Evolución del voto nulo en elecciones presidenciales chilenas
 
-¡[voto_nulo_primera_vs_segunda_vuelta.png]
+¡[voto_nulo_primera_vs_segunda_vuelta.jpg]
 
-¡[voto_nulo_primera_vs_segunda_vuelta.png]
+¡[voto_nulo_primera_vs_segunda_vuelta.jpg]
 
 ## Crónica
 
