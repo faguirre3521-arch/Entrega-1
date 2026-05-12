@@ -1,6 +1,6 @@
 # Evolución del voto nulo en elecciones presidenciales chilenas
-¡[Entrega 3/Liu_Erick_vis_01/Visualización/voto_nulo_primera_vs_segunda_vuelta.png]
-¡[Entrega 3/Liu_Erick_vis_01/Visualización/voto_nulo_primera_vs_segunda_vuelta.png]
+
+![Evolución del voto nulo en primera y segunda vuelta](voto_nulo_primera_vs_segunda_vuelta.png)
 ## Crónica
 
 El voto nulo no se comporta igual en todas las elecciones presidenciales chilenas. Al mirar la serie histórica, aparecen momentos de estabilidad, bajas importantes y también aumentos muy marcados. Los siguentes gráficos permiten observar cómo ha cambiado el porcentaje de votos nulos entre 1989 y 2025, diferenciando entre primera y segunda vuelta.
