@@ -20,5 +20,4 @@ La comparación entre primera y segunda vuelta marca un cambio de tendecia claro
 
 La visualización no demuestra una causa directa, pero sí permite identificar una tendencia relevante: el voto nulo aumenta con fuerza en el escenario donde coinciden voto obligatorio, reducción de alternativas y alta polarización política. Por eso, más que tratarlo como un dato más, el voto nulo puede leerse como una pista sobre la distancia entre una parte del electorado y la oferta presidencial disponible.
 
-
-![Cambio del voto nulo entre primera y segunda vuelta](Entrega%203/Liu_Erick_vis_01/Visualización/cambio_voto_nulo_entre_vueltas.png)
+![Cambio del voto nulo entre primera y segunda vuelta](Visualización/cambio_voto_nulo_entre_vueltas.png)
