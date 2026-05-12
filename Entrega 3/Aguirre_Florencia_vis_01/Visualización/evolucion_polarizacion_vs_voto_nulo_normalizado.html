@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-ac005f53f62d6b69c104886b9782e576"}, "mark": {"type": "line", "point": true}, "encoding": {"color": {"field": "variable", "title": "Variable", "type": "nominal"}, "tooltip": [{"field": "anio", "title": "A\u00f1o", "type": "ordinal"}, {"field": "variable", "title": "Variable", "type": "nominal"}, {"field": "valor", "format": ".1f", "title": "Valor", "type": "quantitative"}], "x": {"field": "anio", "title": "A\u00f1o", "type": "ordinal"}, "y": {"field": "valor", "scale": {"domain": [0, 105]}, "title": "\u00cdndice normalizado (M\u00e1x. 100)", "type": "quantitative"}}, "height": 420, "title": "Evoluci\u00f3n comparada de polarizaci\u00f3n y voto nulo", "width": 750, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-ac005f53f62d6b69c104886b9782e576": [{"anio": 1989, "variable": "Polarizaci\u00f3n normalizada", "valor": 66.66666666666666}, {"anio": 1993, "variable": "Polarizaci\u00f3n normalizada", "valor": 44.44444444444444}, {"anio": 1999, "variable": "Polarizaci\u00f3n normalizada", "valor": 66.66666666666666}, {"anio": 2005, "variable": "Polarizaci\u00f3n normalizada", "valor": 66.66666666666666}, {"anio": 2009, "variable": "Polarizaci\u00f3n normalizada", "valor": 55.55555555555556}, {"anio": 2017, "variable": "Polarizaci\u00f3n normalizada", "valor": 77.77777777777779}, {"anio": 2021, "variable": "Polarizaci\u00f3n normalizada", "valor": 100.0}, {"anio": 2025, "variable": "Polarizaci\u00f3n normalizada", "valor": 100.0}, {"anio": 1989, "variable": "Voto nulo normalizado", "valor": 39.383230660679125}, {"anio": 1993, "variable": "Voto nulo normalizado", "valor": 100.0}, {"anio": 1999, "variable": "Voto nulo normalizado", "valor": 59.661548258104155}, {"anio": 2005, "variable": "Voto nulo normalizado", "valor": 68.12825897316829}, {"anio": 2009, "variable": "Voto nulo normalizado", "valor": 75.06103390538547}, {"anio": 2017, "variable": "Voto nulo normalizado", "valor": 26.17903851910832}, {"anio": 2021, "variable": "Voto nulo normalizado", "valor": 21.215859450484917}, {"anio": 2025, "variable": "Voto nulo normalizado", "valor": 72.94743498278355}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
