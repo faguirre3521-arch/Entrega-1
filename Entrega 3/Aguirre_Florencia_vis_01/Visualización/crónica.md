@@ -26,4 +26,4 @@ En 2025 la historia se repitió, pero esta vez el polo izquierdo era todavía m�
 
 El termómetro marca cinco. Y nadie sabe si eso es el final de algo o apenas el principio.
 
-![Visualización de datos](Visualización/visualization.png)
+![Visualización de datos](visualization.png)
