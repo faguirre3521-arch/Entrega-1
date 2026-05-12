@@ -1,5 +1,4 @@
 # Evolución del voto nulo en elecciones presidenciales chilenas
-
 ![Evolución del voto nulo en primera y segunda vuelta](voto_nulo_primera_vs_segunda_vuelta.png)
 ## Crónica
 
@@ -20,3 +19,4 @@ El gráfico que compara cantidad de candidatos y voto nulo también ayuda a mati
 La comparación entre primera y segunda vuelta marca un cambio de tendecia claro en el voto nulo, que no se veió entre 1989 y 1999. En una primera vuelta, el elector tiene más opciones. En una segunda vuelta, la elección se reduce a dos alternativas. Cuando esas dos opciones son percibidas como muy lejanas o muy polarizadas, el voto nulo puede transformarse en una señal de malestar.
 
 La visualización no demuestra una causa directa, pero sí permite identificar una tendencia relevante: el voto nulo aumenta con fuerza en el escenario donde coinciden voto obligatorio, reducción de alternativas y alta polarización política. Por eso, más que tratarlo como un dato más, el voto nulo puede leerse como una pista sobre la distancia entre una parte del electorado y la oferta presidencial disponible.
+![Cambio del voto nulo entre primera y segunda vuelta](Entrega%203/Liu_Erick_vis_01/Visualización/cambio_voto_nulo_entre_vueltas.png)
