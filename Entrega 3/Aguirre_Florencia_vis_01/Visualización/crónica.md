@@ -25,3 +25,5 @@ No duró.
 En 2025 la historia se repitió, pero esta vez el polo izquierdo era todavía más definidamente comunista, y Kast seguía ahí, como si el país no pudiera sacárselo de encima. Cuatro y medio otra vez, el mismo promedio, pero los extremos más extremos. El puntaje empata con 2021 solo porque la aritmética promedia: la segunda vuelta fue un cinco sin matices.
 
 El termómetro marca cinco. Y nadie sabe si eso es el final de algo o apenas el principio.
+
+![Visualización de datos](Visualización/visualization.png)
