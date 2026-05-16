@@ -1,3 +1,4 @@
+ANULEMELO
 
 En Chile hay una candidatura que no hace campaña, no va a debates, no promete orden ni cambios profundos, pero aparece en todas las elecciones: el voto nulo.
 
