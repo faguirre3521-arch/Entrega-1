@@ -1,35 +1,13 @@
-# Entrega 04 — ANÚLEMELO
-
-## Descripción del proyecto
-
+# Entrega 04 
 **ANÚLEMELO** 
-Nuestra webstory analiza la evolución de los votos nulos y blancos en las elecciones presidenciales chilenas entre 1989 y 2025.
-
-La propuesta busca mostrar cómo este fenómeno ha cambiado a lo largo del tiempo y cómo puede relacionarse con factores como la polarización, el voto obligatorio, la reducción de alternativas en segunda vuelta y las diferencias entre regiones.
-
-En Chile hay una candidatura que no hace campaña, no va a debates y no promete cambios, pero aparece en todas las elecciones: el voto nulo.
-
-A partir de esta frase, la webstory propone mirar los votos nulos y blancos no solo como cifras secundarias, sino como una forma de observar la relación entre participación y alternativas presidenciales.
-
-## Hipótesis actualizada
-
-La hipótesis inicial planteaba que la aparición de candidaturas ideológicamente extremas provocaba un aumento de los votos nulos y blancos.
-
-Después de revisar los datos, decidimos formularla de una manera más cuidadosa:
-
-> El voto nulo y blanco puede reflejar una distancia entre parte del electorado y las alternativas presidenciales disponibles. Su aumento parece ser más visible cuando coinciden el voto obligatorio, la reducción de opciones en segunda vuelta y una alta polarización política.
-
-Esta hipótesis funciona como una guía para el análisis. Las visualizaciones permiten observar tendencias y coincidencias, pero no demostrar por sí solas una relación causal.
-
-## Propuesta de trabajo grupal
 
 El proyecto se organiza en tres líneas principales.
 
-La primera corresponde a la evolución histórica de los votos nulos y blancos entre 1989 y 2025. Esta parte busca mostrar los principales aumentos, disminuciones y diferencias entre elecciones.
+1) La primera corresponde a la evolución histórica de los votos nulos y blancos entre 1989 y 2025. Esta parte busca mostrar los principales aumentos, disminuciones y diferencias entre elecciones.
 
-La segunda compara el comportamiento del voto nulo entre primera y segunda vuelta. La idea es observar qué ocurre cuando la cantidad de alternativas se reduce y el electorado debe elegir entre solo dos candidaturas.
+2) La segunda compara el comportamiento del voto nulo entre primera y segunda vuelta. La idea es observar qué ocurre cuando la cantidad de alternativas se reduce y el electorado debe elegir entre solo dos candidaturas.
 
-La tercera línea corresponde al análisis regional. Esta parte busca mostrar cómo se distribuyen los votos nulos y blancos en el territorio y si existen diferencias importantes entre regiones (siguen en proceso de creación).
+3) La tercera línea corresponde al análisis regional. Esta parte busca mostrar cómo se distribuyen los votos nulos y blancos en el territorio y si existen diferencias importantes entre regiones (siguen en proceso de creación).
 
 Además, el proyecto incorpora la polarización y el voto obligatorio como variables de contexto. Estas dimensiones permiten una la lectura de los datos, pero no podemos determinar que son explicaciones únicas del fenómeno.
 
