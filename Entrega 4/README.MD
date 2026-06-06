@@ -30,6 +30,10 @@ Para el mapa de viaje se eligió a este segundo perfil. Su recorrido se organiz�
 El recorrido muestra una frustración inicial frente a conceptos complejos y una mejora progresiva a medida que la webstory entrega contexto, organiza la información y facilita la lectura de los datos.
 
 ## Libro de identidad visual 
+
+**Link al prototipo en Miro:**  
+https://miro.com/welcomeonboard/dDRNdFpzZ1NLSlRLem9zR1B1eTRXUmhXb1FucHdJSVpHTHpBZkYwWmNMVmk2MlV4dy9yTXBKaWQzQXJOaGVtU0ZKRjZLa3o2OWpwdklqWFAzb1B5bDR4NWVwbnplb3graDdzTXpSRDYzaW5rbnlmQmU3dlY5cUtOVVdPZHI1RnRnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=643737111649
+
 Cuando nos propusimos crear la identidad visual de ANULELME-LO, lo primero que nos dimos cuenta fue de lo difícil que es encontrar referencias visuales para un proyecto sobre elecciones. Las elecciones, en general, no tienen una estética propia. Uno piensa en colores de partidos políticos, en logos de candidatos, en cosas muy momentáneas e ideológicas que cambian cada cuatro años y que no representan nada más allá de una campaña específica. No había un universo visual claro al que recurrir.
 
 Hasta que nos preguntamos algo que en realidad era obvio: ¿cuándo empezó todo esto? Nuestro análisis parte en 1989, el año de las primeras elecciones tras la dictadura. Y antes de eso, en 1988, estaba el plebiscito. Estaba la Campaña del No.
@@ -41,7 +45,7 @@ A partir de ahí todo fue tomando forma. La paleta de colores en terracota, most
 ## Wireframe
 
 **Link al prototipo en Miro:**  
-[Agregar enlace al prototipo](PEGAR_LINK_AQUÍ)
+https://miro.com/welcomeonboard/dDRNdFpzZ1NLSlRLem9zR1B1eTRXUmhXb1FucHdJSVpHTHpBZkYwWmNMVmk2MlV4dy9yTXBKaWQzQXJOaGVtU0ZKRjZLa3o2OWpwdklqWFAzb1B5bDR4NWVwbnplb3graDdzTXpSRDYzaW5rbnlmQmU3dlY5cUtOVVdPZHI1RnRnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=643737111649
 
 En un principio la idea era realizar una webstory de desplazamiento vertical. No obstante, decidimos hacer que solo el inicio tenga ese estilo. Decidimos permitr al usuario acceder directamente a distintas secciones desde la introducción y el menú superior, para no sobre saturar con información.
 
