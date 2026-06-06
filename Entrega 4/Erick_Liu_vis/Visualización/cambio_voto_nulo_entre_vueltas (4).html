@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-5674cb0d42475cb723ca830d70e83481"}, "mark": {"type": "line", "point": true}, "encoding": {"tooltip": [{"field": "anio", "title": "A\u00f1o", "type": "ordinal"}, {"field": "nulos_primera", "format": ".2f", "title": "Nulos primera vuelta (%)", "type": "quantitative"}, {"field": "nulos_segunda", "format": ".2f", "title": "Nulos segunda vuelta (%)", "type": "quantitative"}, {"field": "diferencia", "format": ".2f", "title": "Diferencia", "type": "quantitative"}], "x": {"field": "anio", "title": "A\u00f1o", "type": "ordinal"}, "y": {"field": "diferencia", "title": "Diferencia en voto nulo, segunda vuelta menos primera vuelta (%)", "type": "quantitative"}}, "height": 420, "title": "Cambio del voto nulo entre primera y segunda vuelta", "width": 750, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-5674cb0d42475cb723ca830d70e83481": [{"anio": 1999, "nulos_primera": 2.1929921067961646, "nulos_segunda": 1.4105975730313278, "diferencia": -0.7823945337648368}, {"anio": 2005, "nulos_primera": 2.504204777448573, "nulos_segunda": 2.163704764291583, "diferencia": -0.3405000131569902}, {"anio": 2009, "nulos_primera": 2.7590342471561655, "nulos_segunda": 2.630573935453276, "diferencia": -0.12846031170288974}, {"anio": 2017, "nulos_primera": 0.9622684377474051, "nulos_segunda": 0.8025164093561696, "diferencia": -0.15975202839123548}, {"anio": 2021, "nulos_primera": 0.7798358184157638, "nulos_segunda": 0.8203258516577417, "diferencia": 0.040490033241977974}, {"anio": 2025, "nulos_primera": 2.6813442459824315, "nulos_segunda": 5.83415469825948, "diferencia": 3.152810452277049}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
