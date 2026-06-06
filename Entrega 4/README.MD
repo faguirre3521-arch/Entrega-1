@@ -29,6 +29,15 @@ Para el mapa de viaje se eligió a este segundo perfil. Su recorrido se organiz�
 
 El recorrido muestra una frustración inicial frente a conceptos complejos y una mejora progresiva a medida que la webstory entrega contexto, organiza la información y facilita la lectura de los datos.
 
+## Libro de identidad visual 
+Cuando nos propusimos crear la identidad visual de ANULELME-LO, lo primero que nos dimos cuenta fue de lo difícil que es encontrar referencias visuales para un proyecto sobre elecciones. Las elecciones, en general, no tienen una estética propia. Uno piensa en colores de partidos políticos, en logos de candidatos, en cosas muy momentáneas e ideológicas que cambian cada cuatro años y que no representan nada más allá de una campaña específica. No había un universo visual claro al que recurrir.
+
+Hasta que nos preguntamos algo que en realidad era obvio: ¿cuándo empezó todo esto? Nuestro análisis parte en 1989, el año de las primeras elecciones tras la dictadura. Y antes de eso, en 1988, estaba el plebiscito. Estaba la Campaña del No.
+
+Ahí encontramos lo que buscábamos. La Campaña del No tiene una identidad visual increíblemente poderosa: colores vivos pero con una calidez retro, tipografías expresivas, una energía esperanzadora en un contexto político muy difícil. Y lo más importante para nosotros es que esa campaña representa exactamente el momento en que los chilenos volvieron a votar. Es el origen de todo lo que estudiamos. Usar su estética no era solo una decisión de diseño, era una decisión narrativa.
+
+A partir de ahí todo fue tomando forma. La paleta de colores en terracota, mostaza y crema. Las tipografías redondeadas que recuerdan la gráfica de los años 80. El logo con la urna y la papeleta tachada. Cada elemento tiene una razón de ser que conecta con esa historia más grande. Eso es lo que, creemos, hace que la identidad visual de ANULELME-LO no sea solo bonita, sino que tenga sentido.
+
 ## Wireframe
 
 **Link al prototipo en Miro:**  
