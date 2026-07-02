@@ -1,0 +1,233 @@
+﻿eleccion_id,anio,vuelta,region_codigo,region,region_fuente,division_regional,nulos,blancos,nulos_blancos,votos_emitidos,pct_nulos_blancos,nota_limite_regional
+1989_1,1989,1,1,Tarapacá,Tarapacá,13 regiones,2833,1739,4572,170476,2.681902,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1989_1,1989,1,2,Antofagasta,Antofagasta,13 regiones,3191,1980,5171,214583,2.409790,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1989_1,1989,1,3,Atacama,Atacama,13 regiones,1385,1501,2886,114639,2.517468,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1989_1,1989,1,4,Coquimbo,Coquimbo,13 regiones,3915,3881,7796,254929,3.058106,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1989_1,1989,1,5,Valparaíso,Valparaíso,13 regiones,10482,7478,17960,774713,2.318278,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1989_1,1989,1,6,O’Higgins,O’Higgins,13 regiones,5174,4996,10170,378342,2.688044,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1989_1,1989,1,7,Maule,Maule,13 regiones,7170,5794,12964,454412,2.852918,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1989_1,1989,1,8,Biobío,Biobío,13 regiones,15572,11578,27150,925058,2.934951,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1989_1,1989,1,9,La Araucanía,La Araucanía,13 regiones,7927,5753,13680,408498,3.348854,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1989_1,1989,1,10,Los Lagos,Los Lagos,13 regiones,7801,6649,14450,488347,2.958962,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1989_1,1989,1,11,Aysén,Aysén,13 regiones,508,525,1033,38298,2.697269,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1989_1,1989,1,12,Magallanes,Magallanes,13 regiones,874,634,1508,82521,1.827414,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1989_1,1989,1,13,Metropolitana,Metropolitana,13 regiones,36799,22729,59528,2853911,2.085839,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1993_1,1993,1,1,Tarapacá,Tarapacá,13 regiones,6884,3226,10110,176663,5.722760,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1993_1,1993,1,2,Antofagasta,Antofagasta,13 regiones,10375,3814,14189,216911,6.541393,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1993_1,1993,1,3,Atacama,Atacama,13 regiones,4096,2734,6830,120020,5.690718,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1993_1,1993,1,4,Coquimbo,Coquimbo,13 regiones,10124,7329,17453,268842,6.491917,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1993_1,1993,1,5,Valparaíso,Valparaíso,13 regiones,31484,14329,45813,814598,5.624001,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1993_1,1993,1,6,O’Higgins,O’Higgins,13 regiones,14052,8869,22921,404192,5.670820,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1993_1,1993,1,7,Maule,Maule,13 regiones,16695,10163,26858,470178,5.712305,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1993_1,1993,1,8,Biobío,Biobío,13 regiones,38452,18863,57315,956922,5.989516,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1993_1,1993,1,9,La Araucanía,La Araucanía,13 regiones,15869,9077,24946,421290,5.921337,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1993_1,1993,1,10,Los Lagos,Los Lagos,13 regiones,16670,12706,29376,508816,5.773403,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1993_1,1993,1,11,Aysén,Aysén,13 regiones,958,866,1824,41434,4.402182,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1993_1,1993,1,12,Magallanes,Magallanes,13 regiones,3193,1237,4430,80450,5.506526,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1993_1,1993,1,13,Metropolitana,Metropolitana,13 regiones,102537,43737,146274,2902970,5.038771,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1999_1,1999,1,1,Tarapacá,DE TARAPACA,13 regiones,4972,1475,6447,178016,3.621585,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1999_1,1999,1,2,Antofagasta,DE ANTOFAGASTA,13 regiones,5835,1705,7540,206083,3.658720,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1999_1,1999,1,3,Atacama,DE ATACAMA,13 regiones,2447,1032,3479,114489,3.038720,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1999_1,1999,1,4,Coquimbo,DE COQUIMBO,13 regiones,6255,3091,9346,271691,3.439937,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1999_1,1999,1,5,Valparaíso,DE VALPARAISO,13 regiones,21386,6480,27866,807577,3.450569,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1999_1,1999,1,6,O’Higgins,DEL LIBERTADOR BDO.,13 regiones,8337,3581,11918,404217,2.948416,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1999_1,1999,1,7,Maule,DEL MAULE,13 regiones,8695,3742,12437,464246,2.678968,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1999_1,1999,1,8,Biobío,DEL BIO BIO,13 regiones,21305,7841,29146,940463,3.099112,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1999_1,1999,1,9,La Araucanía,DE LA ARAUCANIA,13 regiones,8463,3403,11866,411029,2.886901,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1999_1,1999,1,10,Los Lagos,DE LOS LAGOS,13 regiones,9083,4926,14009,505501,2.771310,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1999_1,1999,1,11,Aysén,AYSEN DEL GRAL. CARL,13 regiones,584,365,949,41883,2.265836,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1999_1,1999,1,12,Magallanes,DE MAGALLANES Y ANTA,13 regiones,1964,556,2520,76590,3.290247,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1999_1,1999,1,13,Metropolitana,METROPOLITANA DE SAN,13 regiones,60139,18794,78933,2849787,2.769786,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1999_2,1999,2,1,Tarapacá,DE TARAPACA,13 regiones,3523,1173,4696,178254,2.634443,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1999_2,1999,2,2,Antofagasta,DE ANTOFAGASTA,13 regiones,3805,1278,5083,204922,2.480456,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1999_2,1999,2,3,Atacama,DE ATACAMA,13 regiones,1681,782,2463,115706,2.128671,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1999_2,1999,2,4,Coquimbo,DE COQUIMBO,13 regiones,3795,2238,6033,274687,2.196318,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1999_2,1999,2,5,Valparaíso,DE VALPARAISO,13 regiones,13825,5426,19251,813325,2.366950,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1999_2,1999,2,6,O’Higgins,DEL LIBERTADOR BDO.,13 regiones,5109,2576,7685,407092,1.887780,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1999_2,1999,2,7,Maule,DEL MAULE,13 regiones,4947,2815,7762,470649,1.649212,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1999_2,1999,2,8,Biobío,DEL BIO BIO,13 regiones,12551,5916,18467,952955,1.937867,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1999_2,1999,2,9,La Araucanía,DE LA ARAUCANIA,13 regiones,4488,2534,7022,420757,1.668897,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1999_2,1999,2,10,Los Lagos,DE LOS LAGOS,13 regiones,4907,3511,8418,514550,1.635993,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1999_2,1999,2,11,Aysén,AYSEN DEL GRAL. CARL,13 regiones,425,242,667,42052,1.586131,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1999_2,1999,2,12,Magallanes,DE MAGALLANES Y ANTA,13 regiones,1197,381,1578,75229,2.097595,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+1999_2,1999,2,13,Metropolitana,METROPOLITANA DE SAN,13 regiones,43098,15803,58901,2856575,2.061945,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+2005_1,2005,1,1,Tarapacá,DE TARAPACA,13 regiones,5241,1902,7143,180545,3.956354,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+2005_1,2005,1,2,Antofagasta,DE ANTOFAGASTA,13 regiones,5705,2007,7712,202407,3.810145,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+2005_1,2005,1,3,Atacama,DE ATACAMA,13 regiones,2590,1552,4142,114146,3.628686,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+2005_1,2005,1,4,Coquimbo,DE COQUIMBO,13 regiones,6816,4549,11365,275153,4.130429,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+2005_1,2005,1,5,Valparaíso,DE VALPARAISO,13 regiones,22330,8959,31289,802900,3.896998,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+2005_1,2005,1,6,O’Higgins,DEL LIBERTADOR BDO. O'HIGGINS,13 regiones,9984,5936,15920,407474,3.906998,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+2005_1,2005,1,7,Maule,DEL MAULE,13 regiones,12402,6202,18604,469216,3.964912,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+2005_1,2005,1,8,Biobío,DEL BIOBIO,13 regiones,24128,11542,35670,935238,3.814002,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+2005_1,2005,1,9,La Araucanía,DE LA ARAUCANIA,13 regiones,10357,5051,15408,416006,3.703793,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+2005_1,2005,1,10,Los Lagos,DE LOS LAGOS,13 regiones,11661,8126,19787,512936,3.857596,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+2005_1,2005,1,11,Aysén,AISEN DEL GRAL. CARLOS IBAÐEZ,13 regiones,831,519,1350,42217,3.197764,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+2005_1,2005,1,12,Magallanes,DE MAGALLANES Y ANTARTICA CH.,13 regiones,2023,866,2889,72234,3.999502,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+2005_1,2005,1,13,Metropolitana,METROPOLITANA DE SANTIAGO,13 regiones,66417,27541,93958,2776806,3.383672,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+2005_2,2005,2,1,Tarapacá,DE TARAPACA,13 regiones,4682,1315,5997,177018,3.387791,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+2005_2,2005,2,2,Antofagasta,DE ANTOFAGASTA,13 regiones,5147,1259,6406,195784,3.271973,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+2005_2,2005,2,3,Atacama,DE ATACAMA,13 regiones,2481,1001,3482,113415,3.070141,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+2005_2,2005,2,4,Coquimbo,DE COQUIMBO,13 regiones,5779,2530,8309,275454,3.016475,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+2005_2,2005,2,5,Valparaíso,DE VALPARAISO,13 regiones,19957,5870,25827,799602,3.229982,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+2005_2,2005,2,6,O’Higgins,DEL LIBERTADOR BDO. O'HIGGINS,13 regiones,8282,2856,11138,406534,2.739746,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+2005_2,2005,2,7,Maule,DEL MAULE,13 regiones,8275,3063,11338,469921,2.412746,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+2005_2,2005,2,8,Biobío,DEL BIOBIO,13 regiones,17966,5664,23630,934484,2.528668,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+2005_2,2005,2,9,La Araucanía,DE LA ARAUCANIA,13 regiones,7366,2591,9957,418180,2.381032,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+2005_2,2005,2,10,Los Lagos,DE LOS LAGOS,13 regiones,8434,3851,12285,512786,2.395736,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+2005_2,2005,2,11,Aysén,AISEN DEL GRAL. CARLOS IBAÐEZ,13 regiones,608,308,916,41184,2.224165,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+2005_2,2005,2,12,Magallanes,DE MAGALLANES Y ANTARTICA CH.,13 regiones,1662,423,2085,67814,3.074586,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+2005_2,2005,2,13,Metropolitana,METROPOLITANA DE SANTIAGO,13 regiones,64333,17229,81562,2750169,2.965709,División regional histórica de 13 regiones: Tarapacá incluye actual Arica y Parinacota; Los Lagos incluye actual Los Ríos; Biobío incluye actual Ñuble.
+2009_1,2009,1,1,Tarapacá,DE TARAPACA,15 regiones,2600,1016,3616,100653,3.592541,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2009_1,2009,1,2,Antofagasta,DE ANTOFAGASTA,15 regiones,7259,2063,9322,198837,4.688262,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2009_1,2009,1,3,Atacama,DE ATACAMA,15 regiones,3221,1629,4850,114601,4.232075,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2009_1,2009,1,4,Coquimbo,DE COQUIMBO,15 regiones,6817,4094,10911,277634,3.929994,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2009_1,2009,1,5,Valparaíso,DE VALPARAISO,15 regiones,24584,9479,34063,817412,4.167176,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2009_1,2009,1,6,O’Higgins,DEL LIBERTADOR BDO. OHIGGINS,15 regiones,10362,5377,15739,414661,3.795631,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2009_1,2009,1,7,Maule,DEL MAULE,15 regiones,12326,6656,18982,473396,4.009751,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2009_1,2009,1,8,Biobío,DEL BIO BIO,15 regiones,26732,11321,38053,939653,4.049686,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2009_1,2009,1,9,La Araucanía,DE LA ARAUCANIA,15 regiones,11246,5687,16933,421272,4.019493,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2009_1,2009,1,10,Los Lagos,DE LOS LAGOS,15 regiones,7909,5444,13353,347524,3.842325,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2009_1,2009,1,11,Aysén,AISEN DEL GRAL. CARLOS IBAÑEZ,15 regiones,855,576,1431,43734,3.272054,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2009_1,2009,1,12,Magallanes,DE MAGALLANES Y ANTARTICA CH.,15 regiones,1988,968,2956,72144,4.097361,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2009_1,2009,1,13,Metropolitana,METROPOLITANA DE SANTIAGO,15 regiones,77328,28855,106183,2785565,3.811902,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2009_1,2009,1,14,Los Ríos,DE LOS RIOS,15 regiones,3716,2011,5727,174500,3.281948,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2009_1,2009,1,15,Arica y Parinacota,ARICA Y PARINACOTA,15 regiones,3477,996,4473,82550,5.418534,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2009_2,2009,2,1,Tarapacá,DE TARAPACA,15 regiones,3251,935,4186,97719,4.283711,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2009_2,2009,2,2,Antofagasta,DE ANTOFAGASTA,15 regiones,7548,1536,9084,190514,4.768154,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2009_2,2009,2,3,Atacama,DE ATACAMA,15 regiones,3261,978,4239,113204,3.744567,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2009_2,2009,2,4,Coquimbo,DE COQUIMBO,15 regiones,6998,2599,9597,278442,3.446678,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2009_2,2009,2,5,Valparaíso,DE VALPARAISO,15 regiones,23940,6338,30278,812512,3.726468,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2009_2,2009,2,6,O’Higgins,DEL LIBERTADOR BDO. O'HIGGINS,15 regiones,9479,3023,12502,413240,3.025361,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2009_2,2009,2,7,Maule,DEL MAULE,15 regiones,8928,2825,11753,474834,2.475181,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2009_2,2009,2,8,Biobío,DEL BIO BIO,15 regiones,22332,6512,28844,941487,3.063664,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2009_2,2009,2,9,La Araucanía,DE LA ARAUCANIA,15 regiones,8348,2505,10853,424151,2.558759,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2009_2,2009,2,10,Los Lagos,DE LOS LAGOS,15 regiones,7343,2723,10066,347338,2.898042,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2009_2,2009,2,11,Aysén,AISEN DEL GRAL. CARLOS IBAÑEZ,15 regiones,938,331,1269,42588,2.979713,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2009_2,2009,2,12,Magallanes,DE MAGALLANES Y ANTARTICA CH.,15 regiones,2255,681,2936,66969,4.384118,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2009_2,2009,2,13,Metropolitana,METROPOLITANA DE SANTIAGO,15 regiones,78028,22025,100053,2744498,3.645585,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2009_2,2009,2,14,Los Ríos,DE LOS RIOS,15 regiones,3696,1249,4945,174998,2.825747,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2009_2,2009,2,15,Arica y Parinacota,ARICA Y PARINACOTA,15 regiones,3145,649,3794,80877,4.691074,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2013_1,2013,1,1,Tarapacá,DE TARAPACA,15 regiones,595,345,940,86117,1.091538,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2013_1,2013,1,2,Antofagasta,DE ANTOFAGASTA,15 regiones,1607,718,2325,176671,1.316005,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2013_1,2013,1,3,Atacama,DE ATACAMA,15 regiones,873,675,1548,99162,1.561082,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2013_1,2013,1,4,Coquimbo,DE COQUIMBO,15 regiones,2499,2193,4692,259764,1.806255,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2013_1,2013,1,5,Valparaíso,DE VALPARAISO,15 regiones,6506,4124,10630,723231,1.469793,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2013_1,2013,1,6,O’Higgins,DEL LIBERTADOR BDO. O'HIGGINS,15 regiones,3560,2723,6283,366505,1.714301,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2013_1,2013,1,7,Maule,DEL MAULE,15 regiones,4699,3534,8233,438073,1.879367,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2013_1,2013,1,8,Biobío,DEL BIOBIO,15 regiones,10481,6953,17434,853913,2.041660,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2013_1,2013,1,9,La Araucanía,DE LA ARAUCANIA,15 regiones,4855,3626,8481,390034,2.174426,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2013_1,2013,1,10,Los Lagos,DE LOS LAGOS,15 regiones,3361,3563,6924,313901,2.205791,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2013_1,2013,1,11,Aysén,AISEN DEL GRAL. CARLOS IBAÑEZ,15 regiones,294,311,605,37731,1.603456,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2013_1,2013,1,12,Magallanes,DE MAGALLANES Y ANTARTICA CH.,15 regiones,462,348,810,62619,1.293537,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2013_1,2013,1,13,Metropolitana,METROPOLITANA DE SANTIAGO,15 regiones,24677,15450,40127,2658373,1.509457,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2013_1,2013,1,14,Los Ríos,DE LOS RIOS,15 regiones,1766,1334,3100,161729,1.916787,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2013_1,2013,1,15,Arica y Parinacota,ARICA Y PARINACOTA,15 regiones,700,371,1071,71188,1.504467,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2013_2,2013,2,1,Tarapacá,DE TARAPACA,15 regiones,972,358,1330,65299,2.036785,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2013_2,2013,2,2,Antofagasta,DE ANTOFAGASTA,15 regiones,2358,656,3014,131326,2.295052,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2013_2,2013,2,3,Atacama,DE ATACAMA,15 regiones,973,441,1414,80579,1.754800,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2013_2,2013,2,4,Coquimbo,DE COQUIMBO,15 regiones,2541,1156,3697,223985,1.650557,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2013_2,2013,2,5,Valparaíso,DE VALPARAISO,15 regiones,9825,3633,13458,614798,2.189012,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2013_2,2013,2,6,O’Higgins,DEL LIBERTADOR BDO. O'HIGGINS,15 regiones,3523,1405,4928,321995,1.530459,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2013_2,2013,2,7,Maule,DEL MAULE,15 regiones,3855,1565,5420,386240,1.403273,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2013_2,2013,2,8,Biobío,DEL BIOBIO,15 regiones,10068,3972,14040,733425,1.914306,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2013_2,2013,2,9,La Araucanía,DE LA ARAUCANIA,15 regiones,4033,1626,5659,340178,1.663541,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2013_2,2013,2,10,Los Lagos,DE LOS LAGOS,15 regiones,2964,1381,4345,271558,1.600027,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2013_2,2013,2,11,Aysén,AISEN DEL GRAL. CARLOS IBAÑEZ,15 regiones,389,144,533,32095,1.660695,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2013_2,2013,2,12,Magallanes,DE MAGALLANES Y ANTARTICA CH.,15 regiones,748,296,1044,50137,2.082295,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2013_2,2013,2,13,Metropolitana,METROPOLITANA DE SANTIAGO,15 regiones,38167,14977,53144,2252394,2.359445,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2013_2,2013,2,14,Los Ríos,DE LOS RIOS,15 regiones,1638,649,2287,138160,1.655327,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2013_2,2013,2,15,Arica y Parinacota,ARICA Y PARINACOTA,15 regiones,862,306,1168,55582,2.101400,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2017_1,2017,1,1,Tarapacá,DE TARAPACA,15 regiones,675,344,1019,96246,1.058745,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2017_1,2017,1,2,Antofagasta,DE ANTOFAGASTA,15 regiones,1626,596,2222,180282,1.232514,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2017_1,2017,1,3,Atacama,DE ATACAMA,15 regiones,735,572,1307,100872,1.295701,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2017_1,2017,1,4,Coquimbo,DE COQUIMBO,15 regiones,2315,1780,4095,257283,1.591633,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2017_1,2017,1,5,Valparaíso,DE VALPARAISO,15 regiones,6234,3267,9501,725747,1.309134,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2017_1,2017,1,6,O’Higgins,DEL LIBERTADOR BDO. O'HIGGINS,15 regiones,3315,2399,5714,353867,1.614731,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2017_1,2017,1,7,Maule,DEL MAULE,15 regiones,4303,3354,7657,409775,1.868586,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2017_1,2017,1,8,Biobío,DEL BIOBIO,15 regiones,8628,5668,14296,807835,1.769668,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2017_1,2017,1,9,La Araucanía,DE LA ARAUCANIA,15 regiones,4308,3517,7825,373629,2.094324,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2017_1,2017,1,10,Los Lagos,DE LOS LAGOS,15 regiones,3071,3029,6100,304214,2.005167,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2017_1,2017,1,11,Aysén,AISEN DEL GRAL. CARLOS IBAÑEZ,15 regiones,313,376,689,38105,1.808162,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2017_1,2017,1,12,Magallanes,DE MAGALLANES Y ANTARTICA CH.,15 regiones,527,243,770,61021,1.261861,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2017_1,2017,1,13,Metropolitana,METROPOLITANA DE SANTIAGO,15 regiones,26027,11765,37792,2740686,1.378925,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2017_1,2017,1,14,Los Ríos,DE LOS RIOS,15 regiones,1573,1205,2778,155536,1.786082,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2017_1,2017,1,15,Arica y Parinacota,ARICA Y PARINACOTA,15 regiones,693,346,1039,74923,1.386757,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2017_2,2017,2,1,Tarapacá,DE TARAPACA,15 regiones,675,164,839,93324,0.899018,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2017_2,2017,2,2,Antofagasta,DE ANTOFAGASTA,15 regiones,1634,353,1987,182380,1.089483,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2017_2,2017,2,3,Atacama,DE ATACAMA,15 regiones,616,206,822,102750,0.800000,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2017_2,2017,2,4,Coquimbo,DE COQUIMBO,15 regiones,1839,708,2547,266673,0.955102,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2017_2,2017,2,5,Valparaíso,DE VALPARAISO,15 regiones,6255,1829,8084,749632,1.078396,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2017_2,2017,2,6,O’Higgins,DEL LIBERTADOR BDO. O'HIGGINS,15 regiones,2570,886,3456,381915,0.904913,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2017_2,2017,2,7,Maule,DEL MAULE,15 regiones,2680,926,3606,445438,0.809540,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2017_2,2017,2,8,Biobío,DEL BIOBIO,15 regiones,6922,2494,9416,872429,1.079286,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2017_2,2017,2,9,La Araucanía,DE LA ARAUCANIA,15 regiones,2962,1088,4050,407676,0.993436,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2017_2,2017,2,10,Los Lagos,DE LOS LAGOS,15 regiones,2293,993,3286,324871,1.011478,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2017_2,2017,2,11,Aysén,AISEN DEL GRAL. CARLOS IBAÑEZ,15 regiones,243,99,342,38039,0.899077,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2017_2,2017,2,12,Magallanes,DE MAGALLANES Y ANTARTICA CH.,15 regiones,509,152,661,60288,1.096404,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2017_2,2017,2,13,Metropolitana,METROPOLITANA DE SANTIAGO,15 regiones,25226,8281,33507,2850621,1.175428,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2017_2,2017,2,14,Los Ríos,DE LOS RIOS,15 regiones,1255,471,1726,164306,1.050479,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2017_2,2017,2,15,Arica y Parinacota,ARICA Y PARINACOTA,15 regiones,575,145,720,71216,1.011009,División regional de 15 regiones: Biobío incluye actual Ñuble.
+2021_1,2021,1,1,Tarapacá,Tarapaca,16 regiones,826,362,1188,110354,1.076536,División regional de 16 regiones.
+2021_1,2021,1,2,Antofagasta,Antofagasta,16 regiones,1684,678,2362,203838,1.158763,División regional de 16 regiones.
+2021_1,2021,1,3,Atacama,Atacama,16 regiones,738,367,1105,107185,1.030928,División regional de 16 regiones.
+2021_1,2021,1,4,Coquimbo,Coquimbo,16 regiones,2141,1321,3462,267015,1.296556,División regional de 16 regiones.
+2021_1,2021,1,5,Valparaíso,Valparaiso,16 regiones,6301,2813,9114,802976,1.135028,División regional de 16 regiones.
+2021_1,2021,1,6,O’Higgins,Libertador,16 regiones,3187,2094,5281,368873,1.431658,División regional de 16 regiones.
+2021_1,2021,1,7,Maule,Maule,16 regiones,3711,2424,6135,409512,1.498125,División regional de 16 regiones.
+2021_1,2021,1,8,Biobío,Biobio,16 regiones,5289,3199,8488,620395,1.368161,División regional de 16 regiones.
+2021_1,2021,1,9,La Araucanía,Araucania,16 regiones,3774,2536,6310,400139,1.576952,División regional de 16 regiones.
+2021_1,2021,1,10,Los Lagos,Los Lagos,16 regiones,2733,2471,5204,330951,1.572438,División regional de 16 regiones.
+2021_1,2021,1,11,Aysén,Aysen,16 regiones,428,340,768,40677,1.888045,División regional de 16 regiones.
+2021_1,2021,1,12,Magallanes,Magallanes,16 regiones,648,304,952,70027,1.359476,División regional de 16 regiones.
+2021_1,2021,1,13,Metropolitana,RM,16 regiones,20029,8860,28889,2906465,0.993957,División regional de 16 regiones.
+2021_1,2021,1,14,Los Ríos,Los Rios,16 regiones,1426,1076,2502,162125,1.543254,División regional de 16 regiones.
+2021_1,2021,1,15,Arica y Parinacota,Arica,16 regiones,756,332,1088,85884,1.266825,División regional de 16 regiones.
+2021_1,2021,1,16,Ñuble,Ñuble,16 regiones,1645,1250,2895,193860,1.493346,División regional de 16 regiones.
+2021_2,2021,2,1,Tarapacá,Tarapaca,16 regiones,1107,330,1437,115399,1.245245,División regional de 16 regiones.
+2021_2,2021,2,2,Antofagasta,Antofagasta,16 regiones,2515,633,3148,217254,1.448995,División regional de 16 regiones.
+2021_2,2021,2,3,Atacama,Atacama,16 regiones,993,294,1287,117716,1.093309,División regional de 16 regiones.
+2021_2,2021,2,4,Coquimbo,Coquimbo,16 regiones,2664,966,3630,318499,1.139721,División regional de 16 regiones.
+2021_2,2021,2,5,Valparaíso,Valparaiso,16 regiones,7728,2466,10194,929126,1.097160,División regional de 16 regiones.
+2021_2,2021,2,6,O’Higgins,Libertador,16 regiones,3174,1099,4273,443075,0.964397,División regional de 16 regiones.
+2021_2,2021,2,7,Maule,Maule,16 regiones,3542,1276,4818,495354,0.972638,División regional de 16 regiones.
+2021_2,2021,2,8,Biobío,Biobio,16 regiones,6420,2122,8542,736687,1.159516,División regional de 16 regiones.
+2021_2,2021,2,9,La Araucanía,Araucania,16 regiones,3668,1275,4943,467653,1.056980,División regional de 16 regiones.
+2021_2,2021,2,10,Los Lagos,Los Lagos,16 regiones,3066,1233,4299,387821,1.108501,División regional de 16 regiones.
+2021_2,2021,2,11,Aysén,Aysen,16 regiones,356,153,509,46490,1.094859,División regional de 16 regiones.
+2021_2,2021,2,12,Magallanes,Magallanes,16 regiones,696,188,884,78936,1.119895,División regional de 16 regiones.
+2021_2,2021,2,13,Metropolitana,RM,16 regiones,28426,10345,38771,3460078,1.120524,División regional de 16 regiones.
+2021_2,2021,2,14,Los Ríos,Los Rios,16 regiones,1419,604,2023,190827,1.060123,División regional de 16 regiones.
+2021_2,2021,2,15,Arica y Parinacota,Arica,16 regiones,846,254,1100,88509,1.242811,División regional de 16 regiones.
+2021_2,2021,2,16,Ñuble,Ñuble,16 regiones,1711,578,2289,235908,0.970294,División regional de 16 regiones.
+2025_1,2025,1,1,Tarapacá,DE TARAPACA,16 regiones,5165,2149,7314,213405,3.427286,División regional de 16 regiones.
+2025_1,2025,1,2,Antofagasta,DE ANTOFAGASTA,16 regiones,12578,4576,17154,411661,4.167021,División regional de 16 regiones.
+2025_1,2025,1,3,Atacama,DE ATACAMA,16 regiones,5886,2755,8641,210865,4.097883,División regional de 16 regiones.
+2025_1,2025,1,4,Coquimbo,DE COQUIMBO,16 regiones,18175,8093,26268,585884,4.483481,División regional de 16 regiones.
+2025_1,2025,1,5,Valparaíso,DE VALPARAISO,16 regiones,45035,16481,61516,1451625,4.237734,División regional de 16 regiones.
+2025_1,2025,1,6,O’Higgins,DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,16 regiones,21593,8397,29990,759407,3.949134,División regional de 16 regiones.
+2025_1,2025,1,7,Maule,DEL MAULE,16 regiones,23029,9968,32997,862103,3.827501,División regional de 16 regiones.
+2025_1,2025,1,8,Biobío,DEL BIOBIO,16 regiones,32279,12125,44404,1219667,3.640666,División regional de 16 regiones.
+2025_1,2025,1,9,La Araucanía,DE LA ARAUCANIA,16 regiones,19186,8911,28097,779199,3.605882,División regional de 16 regiones.
+2025_1,2025,1,10,Los Lagos,DE LOS LAGOS,16 regiones,18616,9278,27894,673366,4.142472,División regional de 16 regiones.
+2025_1,2025,1,11,Aysén,DE AYSEN DEL GENERAL CARLOS IBAÑEZ DEL CAMPO,16 regiones,1909,1148,3057,72860,4.195718,División regional de 16 regiones.
+2025_1,2025,1,12,Magallanes,DE MAGALLANES Y DE LA ANTARTICA CHILENA,16 regiones,4249,1770,6019,122394,4.917725,División regional de 16 regiones.
+2025_1,2025,1,13,Metropolitana,METROPOLITANA DE SANTIAGO,16 regiones,130359,46689,177048,5173843,3.421982,División regional de 16 regiones.
+2025_1,2025,1,14,Los Ríos,DE LOS RIOS,16 regiones,7903,3350,11253,313874,3.585197,División regional de 16 regiones.
+2025_1,2025,1,15,Arica y Parinacota,DE ARICA Y PARINACOTA,16 regiones,5037,1737,6774,157630,4.297405,División regional de 16 regiones.
+2025_1,2025,1,16,Ñuble,DE ÑUBLE,16 regiones,10049,4435,14484,406368,3.564257,División regional de 16 regiones.
+2025_2,2025,2,1,Tarapacá,DE TARAPACA,16 regiones,14813,2529,17342,212121,8.175522,División regional de 16 regiones.
+2025_2,2025,2,2,Antofagasta,DE ANTOFAGASTA,16 regiones,36870,5853,42723,407592,10.481805,División regional de 16 regiones.
+2025_2,2025,2,3,Atacama,DE ATACAMA,16 regiones,16879,3080,19959,209978,9.505282,División regional de 16 regiones.
+2025_2,2025,2,4,Coquimbo,DE COQUIMBO,16 regiones,42661,8795,51456,583378,8.820353,División regional de 16 regiones.
+2025_2,2025,2,5,Valparaíso,DE VALPARAISO,16 regiones,92800,18917,111717,1449153,7.709124,División regional de 16 regiones.
+2025_2,2025,2,6,O’Higgins,DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,16 regiones,46289,9511,55800,757567,7.365685,División regional de 16 regiones.
+2025_2,2025,2,7,Maule,DEL MAULE,16 regiones,48586,8662,57248,860933,6.649530,División regional de 16 regiones.
+2025_2,2025,2,8,Biobío,DEL BIOBIO,16 regiones,77428,15363,92791,1215533,7.633771,División regional de 16 regiones.
+2025_2,2025,2,9,La Araucanía,DE LA ARAUCANIA,16 regiones,40303,8394,48697,776738,6.269424,División regional de 16 regiones.
+2025_2,2025,2,10,Los Lagos,DE LOS LAGOS,16 regiones,40351,8993,49344,672084,7.341939,División regional de 16 regiones.
+2025_2,2025,2,11,Aysén,DE AYSEN DEL GENERAL CARLOS IBAÑEZ DEL CAMPO,16 regiones,3882,946,4828,72948,6.618413,División regional de 16 regiones.
+2025_2,2025,2,12,Magallanes,DE MAGALLANES Y DE LA ANTARTICA CHILENA,16 regiones,7686,1892,9578,121976,7.852364,División regional de 16 regiones.
+2025_2,2025,2,13,Metropolitana,METROPOLITANA DE SANTIAGO,16 regiones,264943,62460,327403,5160085,6.344915,División regional de 16 regiones.
+2025_2,2025,2,14,Los Ríos,DE LOS RIOS,16 regiones,16628,3673,20301,312880,6.488430,División regional de 16 regiones.
+2025_2,2025,2,15,Arica y Parinacota,DE ARICA Y PARINACOTA,16 regiones,11563,1877,13440,157380,8.539840,División regional de 16 regiones.
+2025_2,2025,2,16,Ñuble,DE ÑUBLE,16 regiones,21161,4047,25208,405097,6.222707,División regional de 16 regiones.

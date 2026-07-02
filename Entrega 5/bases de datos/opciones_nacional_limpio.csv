@@ -1,0 +1,102 @@
+﻿eleccion_id;anio;vuelta;tipo;opcion;categoria;votos;votos_emitidos;porcentaje_emitidos
+1989_1;1989;1;Primera vuelta;Francisco Errazuriz;Candidatura;1077172;7158727;15.046976927601794
+1989_1;1989;1;Primera vuelta;Hernán Buchi;Candidatura;2052116;7158727;28.665934599824798
+1989_1;1989;1;Primera vuelta;Patricio Aylwin;Candidatura;3850571;7158727;53.788487813545615
+1989_1;1989;1;Primera vuelta;Blancos;Voto que no elige;75237;7158727;1.0509829471077747
+1989_1;1989;1;Primera vuelta;Nulos;Voto que no elige;103631;7158727;1.4476177119200104
+1993_1;1993;1;Primera vuelta;Arturo Alessandri;Candidatura;1703070;7383286;23.066558711121306
+1993_1;1993;1;Primera vuelta;Cristian Reitze;Candidatura;81814;7383286;1.1080973972835402
+1993_1;1993;1;Primera vuelta;Eduardo Frei;Candidatura;4044112;7383286;54.77387710566812
+1993_1;1993;1;Primera vuelta;Eugenio Pizarro;Candidatura;327404;7383286;4.4343941166575425
+1993_1;1993;1;Primera vuelta;José Piñera;Candidatura;431176;7383286;5.839892969065535
+1993_1;1993;1;Primera vuelta;Manfred Neff;Candidatura;387371;7383286;5.246593454459166
+1993_1;1993;1;Primera vuelta;Blancos;Voto que no elige;136950;7383286;1.8548651643726113
+1993_1;1993;1;Primera vuelta;Nulos;Voto que no elige;271389;7383286;3.6757210813721692
+1999_1;1999;1;Primera vuelta;Arturo Frei;Candidatura;26812;7271572;0.3687235717393708
+1999_1;1999;1;Primera vuelta;Gladys Marín;Candidatura;225224;7271572;3.0973220096012253
+1999_1;1999;1;Primera vuelta;Joaquín Lavin;Candidatura;3352192;7271572;46.09996297911923
+1999_1;1999;1;Primera vuelta;Ricardo Lagos;Candidatura;3383334;7271572;46.52823350989305
+1999_1;1999;1;Primera vuelta;Sara Larrain;Candidatura;31319;7271572;0.4307046674364223
+1999_1;1999;1;Primera vuelta;Tomás Hirsch;Candidatura;36235;7271572;0.49831040660808973
+1999_1;1999;1;Primera vuelta;Blancos;Voto que no elige;56991;7271572;0.7837507488064478
+1999_1;1999;1;Primera vuelta;Nulos;Voto que no elige;159465;7271572;2.1929921067961646
+1999_2;1999;2;Segunda vuelta;Joaquín Lavin;Candidatura;3495569;7326753;47.709660746035794
+1999_2;1999;2;Segunda vuelta;Ricardo Lagos;Candidatura;3683158;7326753;50.269989994203435
+1999_2;1999;2;Segunda vuelta;Blancos;Voto que no elige;44675;7326753;0.6097516867294421
+1999_2;1999;2;Segunda vuelta;Nulos;Voto que no elige;103351;7326753;1.4105975730313278
+2005_1;2005;1;Primera vuelta;Joaquín Lavin;Candidatura;1612608;7207278;22.374716224349886
+2005_1;2005;1;Primera vuelta;Michelle Bachelet;Candidatura;3190691;7207278;44.2704027789687
+2005_1;2005;1;Primera vuelta;Sebastián Piñera;Candidatura;1763694;7207278;24.47101388346613
+2005_1;2005;1;Primera vuelta;Tomás Hirsch;Candidatura;375048;7207278;5.203739886264967
+2005_1;2005;1;Primera vuelta;Blancos;Voto que no elige;84752;7207278;1.1759224495017397
+2005_1;2005;1;Primera vuelta;Nulos;Voto que no elige;180485;7207278;2.504204777448573
+2005_2;2005;2;Segunda vuelta;Michelle Bachelet;Candidatura;3723019;7162345;51.9804477444189
+2005_2;2005;2;Segunda vuelta;Sebastián Piñera;Candidatura;3236394;7162345;45.1862343966955
+2005_2;2005;2;Segunda vuelta;Blancos;Voto que no elige;47960;7162345;0.6696130945940192
+2005_2;2005;2;Segunda vuelta;Nulos;Voto que no elige;154972;7162345;2.163704764291583
+2009_1;2009;1;Primera vuelta;Eduardo Frei;Candidatura;2065061;7264136;28.428170948341275
+2009_1;2009;1;Primera vuelta;Jorge Arrate;Candidatura;433195;7264136;5.963475904085496
+2009_1;2009;1;Primera vuelta;ME-O;Candidatura;1405124;7264136;19.343305246487677
+2009_1;2009;1;Primera vuelta;Sebastián Piñera;Candidatura;3074164;7264136;42.31974731750617
+2009_1;2009;1;Primera vuelta;Blancos;Voto que no elige;86172;7264136;1.1862663364232167
+2009_1;2009;1;Primera vuelta;Nulos;Voto que no elige;200420;7264136;2.7590342471561655
+2009_2;2009;2;Segunda vuelta;Eduardo Frei;Candidatura;3367790;7203371;46.752971629532894
+2009_2;2009;2;Segunda vuelta;Sebastián Piñera;Candidatura;3591182;7203371;49.85418632470825
+2009_2;2009;2;Segunda vuelta;Blancos;Voto que no elige;54909;7203371;0.7622681103055777
+2009_2;2009;2;Segunda vuelta;Nulos;Voto que no elige;189490;7203371;2.630573935453276
+2013_1;2013;1;Primera vuelta;Alfredo Sfeir;Candidatura;162811;6699011;2.4303736775473275
+2013_1;2013;1;Primera vuelta;Evelyn Matthei;Candidatura;1640318;6699011;24.485972630885364
+2013_1;2013;1;Primera vuelta;Franco Parisi;Candidatura;666015;6699011;9.941989944485835
+2013_1;2013;1;Primera vuelta;ME-O;Candidatura;723542;6699011;10.800728644870116
+2013_1;2013;1;Primera vuelta;Marcel Claude;Candidatura;185072;6699011;2.7626764607492063
+2013_1;2013;1;Primera vuelta;Michelle Bachelet;Candidatura;3075839;6699011;45.91482235213527
+2013_1;2013;1;Primera vuelta;Ricardo Israel;Candidatura;37744;6699011;0.5634264520538927
+2013_1;2013;1;Primera vuelta;Roxana Miranda;Candidatura;81873;6699011;1.2221654808448592
+2013_1;2013;1;Primera vuelta;Tomás Jocelyn Holt;Candidatura;12594;6699011;0.1879978999885207
+2013_1;2013;1;Primera vuelta;Blancos;Voto que no elige;46268;6699011;0.6906691151873016
+2013_1;2013;1;Primera vuelta;Nulos;Voto que no elige;66935;6699011;0.9991773412523133
+2013_2;2013;2;Segunda vuelta;Evelyn Matthei;Candidatura;2111891;5697751;37.06534385233753
+2013_2;2013;2;Segunda vuelta;Michelle Bachelet;Candidatura;3470379;5697751;60.90787400151393
+2013_2;2013;2;Segunda vuelta;Blancos;Voto que no elige;32565;5697751;0.5715412976102325
+2013_2;2013;2;Segunda vuelta;Nulos;Voto que no elige;82916;5697751;1.4552408485383093
+2017_1;2017;1;Primera vuelta;Aeljandro Guiller;Candidatura;1498040;6703327;22.347708831748772
+2017_1;2017;1;Primera vuelta;Alejandro Navarro;Candidatura;23968;6703327;0.3575537938101483
+2017_1;2017;1;Primera vuelta;Beatriz Sánchez;Candidatura;1338037;6703327;19.960789619841012
+2017_1;2017;1;Primera vuelta;Carolina Goic;Candidatura;387784;6703327;5.784948280159987
+2017_1;2017;1;Primera vuelta;Eduardo Artés;Candidatura;33665;6703327;0.5022133039310182
+2017_1;2017;1;Primera vuelta;José Antonio Kast;Candidatura;523375;6703327;7.807690121636614
+2017_1;2017;1;Primera vuelta;ME-O;Candidatura;376871;6703327;5.622148524158228
+2017_1;2017;1;Primera vuelta;Sebastián Piñera;Candidatura;2418540;6703327;36.079695947997166
+2017_1;2017;1;Primera vuelta;Blancos;Voto que no elige;38543;6703327;0.574983138969649
+2017_1;2017;1;Primera vuelta;Nulos;Voto que no elige;64504;6703327;0.9622684377474051
+2017_2;2017;2;Segunda vuelta;Alejandro Guiller;Candidatura;3160628;7032878;44.94074829678547
+2017_2;2017;2;Segunda vuelta;Sebastián Piñera;Candidatura;3796918;7032878;53.98811126824609
+2017_2;2017;2;Segunda vuelta;Blancos;Voto que no elige;18892;7032878;0.2686240256122742
+2017_2;2017;2;Segunda vuelta;Nulos;Voto que no elige;56440;7032878;0.8025164093561696
+2021_1;2021;1;Primera vuelta;Eduardo Artés;Candidatura;102209;7080506;1.4435267761936788
+2021_1;2021;1;Primera vuelta;Franco Parisi;Candidatura;899067;7080506;12.697778944047219
+2021_1;2021;1;Primera vuelta;Gabriel Boric;Candidatura;1796851;7080506;25.37743771419726
+2021_1;2021;1;Primera vuelta;José Antonio Kast;Candidatura;1954607;7080506;27.60547056947625
+2021_1;2021;1;Primera vuelta;ME-O;Candidatura;533554;7080506;7.5355348897381065
+2021_1;2021;1;Primera vuelta;Sebastián Sichel;Candidatura;894838;7080506;12.638051574280142
+2021_1;2021;1;Primera vuelta;Yasna Provoste;Candidatura;813407;7080506;11.487978401543618
+2021_1;2021;1;Primera vuelta;Blancos;Voto que no elige;30493;7080506;0.43066131149383957
+2021_1;2021;1;Primera vuelta;Nulos;Voto que no elige;55480;7080506;0.7835598190298829
+2021_2;2021;2;Segunda vuelta;Gabriel Boric;Candidatura;4596579;8329773;55.182524181631365
+2021_2;2021;2;Segunda vuelta;José Antonio Kast;Candidatura;3640606;8329773;43.705944927911
+2021_2;2021;2;Segunda vuelta;Blancos;Voto que no elige;23972;8329773;0.28778695409826893
+2021_2;2021;2;Segunda vuelta;Nulos;Voto que no elige;68616;8329773;0.8237439363593702
+2025_1;2025;1;Primera vuelta;Eduardo Artés;Candidatura;84867;13414633;0.6326449631532969
+2025_1;2025;1;Primera vuelta;Evelyn Matthei;Candidatura;1607025;13414633;11.979641932805766
+2025_1;2025;1;Primera vuelta;Franco Parisi;Candidatura;2555858;13414633;19.05276126450869
+2025_1;2025;1;Primera vuelta;Harold Mayne-Nichols;Candidatura;162204;13414633;1.2091571942370694
+2025_1;2025;1;Primera vuelta;Jeannette Jara;Candidatura;3453727;13414633;25.745967109200823
+2025_1;2025;1;Primera vuelta;Johannes Kaiser;Candidatura;1799691;13414633;13.415879510084249
+2025_1;2025;1;Primera vuelta;José Antonio Kast;Candidatura;3093700;13414633;23.062129243491043
+2025_1;2025;1;Primera vuelta;ME-O;Candidatura;154169;13414633;1.149259916391302
+2025_1;2025;1;Primera vuelta;Blancos;Voto que no elige;141989;13414633;1.0584635449959756
+2025_1;2025;1;Primera vuelta;Nulos;Voto que no elige;361403;13414633;2.694095321131782
+2025_2;2025;2;Segunda vuelta;Jeannette Jara;Candidatura;5188204;13376768;38.78518338659981
+2025_2;2025;2;Segunda vuelta;José Antonio Kast;Candidatura;7239404;13376768;54.119231192467424
+2025_2;2025;2;Segunda vuelta;Blancos;Voto que no elige;165344;13376768;1.2360534323388133
+2025_2;2025;2;Segunda vuelta;Nulos;Voto que no elige;783816;13376768;5.8595319885939565
