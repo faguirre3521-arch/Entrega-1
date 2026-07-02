@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300, "strokeWidth": 0}, "axis": {"gridColor": "#e5e7eb", "labelFontSize": 11, "titleFontSize": 12}, "legend": {"orient": "top", "title": null}}, "data": {"name": "data-e58c1d381d37248674d6bae658d2de16"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"field": "vuelta_label", "scale": {"domain": ["Primera vuelta", "Segunda vuelta"], "range": ["#64748b", "#d94841"]}, "title": null, "type": "nominal"}, "detail": {"field": "vuelta_label", "type": "nominal"}, "tooltip": [{"field": "region", "title": "Regi\u00f3n", "type": "nominal"}, {"field": "anio", "format": "d", "title": "A\u00f1o", "type": "quantitative"}, {"field": "vuelta_label", "title": "Vuelta", "type": "nominal"}, {"field": "pct_nulos_blancos", "format": ".2f", "title": "% nulos + blancos", "type": "quantitative"}, {"field": "nulos_blancos", "format": ",", "title": "Nulos + blancos", "type": "quantitative"}, {"field": "votos_emitidos", "format": ",", "title": "Votos emitidos", "type": "quantitative"}], "x": {"axis": {"format": "d", "labelAngle": 0, "values": [1989, 1993, 1999, 2005, 2009, 2013, 2017, 2021, 2025]}, "field": "anio", "scale": {"domain": [1989, 2025]}, "title": "A\u00f1o", "type": "quantitative"}, "y": {"axis": {"format": ".1f"}, "field": "pct_nulos_blancos", "title": "% nulos + blancos", "type": "quantitative"}}, "height": 420, "title": {"text": "Evoluci\u00f3n del voto nulo y blanco en Arica y Parinacota", "subtitle": "Porcentaje de votos nulos y blancos en elecciones presidenciales, 1989\u20132025", "anchor": "start", "fontSize": 18, "subtitleFontSize": 12, "subtitleColor": "#374151"}, "width": 820, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-e58c1d381d37248674d6bae658d2de16": [{"eleccion_id": "2009_1", "anio": 2009, "vuelta": 1, "region_codigo": 15, "region": "Arica y Parinacota", "region_fuente": "ARICA Y PARINACOTA", "division_regional": "15 regiones", "nulos": 3477, "blancos": 996, "nulos_blancos": 4473, "votos_emitidos": 82550, "pct_nulos_blancos": 5.418534, "nota_limite_regional": "Divisi\u00f3n regional de 15 regiones: Biob\u00edo incluye actual \u00d1uble.", "vuelta_label": "Primera vuelta"}, {"eleccion_id": "2013_1", "anio": 2013, "vuelta": 1, "region_codigo": 15, "region": "Arica y Parinacota", "region_fuente": "ARICA Y PARINACOTA", "division_regional": "15 regiones", "nulos": 700, "blancos": 371, "nulos_blancos": 1071, "votos_emitidos": 71188, "pct_nulos_blancos": 1.504467, "nota_limite_regional": "Divisi\u00f3n regional de 15 regiones: Biob\u00edo incluye actual \u00d1uble.", "vuelta_label": "Primera vuelta"}, {"eleccion_id": "2017_1", "anio": 2017, "vuelta": 1, "region_codigo": 15, "region": "Arica y Parinacota", "region_fuente": "ARICA Y PARINACOTA", "division_regional": "15 regiones", "nulos": 693, "blancos": 346, "nulos_blancos": 1039, "votos_emitidos": 74923, "pct_nulos_blancos": 1.386757, "nota_limite_regional": "Divisi\u00f3n regional de 15 regiones: Biob\u00edo incluye actual \u00d1uble.", "vuelta_label": "Primera vuelta"}, {"eleccion_id": "2021_1", "anio": 2021, "vuelta": 1, "region_codigo": 15, "region": "Arica y Parinacota", "region_fuente": "Arica", "division_regional": "16 regiones", "nulos": 756, "blancos": 332, "nulos_blancos": 1088, "votos_emitidos": 85884, "pct_nulos_blancos": 1.266825, "nota_limite_regional": "Divisi\u00f3n regional de 16 regiones.", "vuelta_label": "Primera vuelta"}, {"eleccion_id": "2025_1", "anio": 2025, "vuelta": 1, "region_codigo": 15, "region": "Arica y Parinacota", "region_fuente": "DE ARICA Y PARINACOTA", "division_regional": "16 regiones", "nulos": 5037, "blancos": 1737, "nulos_blancos": 6774, "votos_emitidos": 157630, "pct_nulos_blancos": 4.297405, "nota_limite_regional": "Divisi\u00f3n regional de 16 regiones.", "vuelta_label": "Primera vuelta"}, {"eleccion_id": "2009_2", "anio": 2009, "vuelta": 2, "region_codigo": 15, "region": "Arica y Parinacota", "region_fuente": "ARICA Y PARINACOTA", "division_regional": "15 regiones", "nulos": 3145, "blancos": 649, "nulos_blancos": 3794, "votos_emitidos": 80877, "pct_nulos_blancos": 4.691074, "nota_limite_regional": "Divisi\u00f3n regional de 15 regiones: Biob\u00edo incluye actual \u00d1uble.", "vuelta_label": "Segunda vuelta"}, {"eleccion_id": "2013_2", "anio": 2013, "vuelta": 2, "region_codigo": 15, "region": "Arica y Parinacota", "region_fuente": "ARICA Y PARINACOTA", "division_regional": "15 regiones", "nulos": 862, "blancos": 306, "nulos_blancos": 1168, "votos_emitidos": 55582, "pct_nulos_blancos": 2.1014, "nota_limite_regional": "Divisi\u00f3n regional de 15 regiones: Biob\u00edo incluye actual \u00d1uble.", "vuelta_label": "Segunda vuelta"}, {"eleccion_id": "2017_2", "anio": 2017, "vuelta": 2, "region_codigo": 15, "region": "Arica y Parinacota", "region_fuente": "ARICA Y PARINACOTA", "division_regional": "15 regiones", "nulos": 575, "blancos": 145, "nulos_blancos": 720, "votos_emitidos": 71216, "pct_nulos_blancos": 1.011009, "nota_limite_regional": "Divisi\u00f3n regional de 15 regiones: Biob\u00edo incluye actual \u00d1uble.", "vuelta_label": "Segunda vuelta"}, {"eleccion_id": "2021_2", "anio": 2021, "vuelta": 2, "region_codigo": 15, "region": "Arica y Parinacota", "region_fuente": "Arica", "division_regional": "16 regiones", "nulos": 846, "blancos": 254, "nulos_blancos": 1100, "votos_emitidos": 88509, "pct_nulos_blancos": 1.242811, "nota_limite_regional": "Divisi\u00f3n regional de 16 regiones.", "vuelta_label": "Segunda vuelta"}, {"eleccion_id": "2025_2", "anio": 2025, "vuelta": 2, "region_codigo": 15, "region": "Arica y Parinacota", "region_fuente": "DE ARICA Y PARINACOTA", "division_regional": "16 regiones", "nulos": 11563, "blancos": 1877, "nulos_blancos": 13440, "votos_emitidos": 157380, "pct_nulos_blancos": 8.53984, "nota_limite_regional": "Divisi\u00f3n regional de 16 regiones.", "vuelta_label": "Segunda vuelta"}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
