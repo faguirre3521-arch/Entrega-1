@@ -1,0 +1,8 @@
+### Título: El Voto que no elige presidente
+#### En Chile, los votos nulos y blancos suelen quedar al margen de la noche electoral. No entregan una candidatura ganadora ni se transforman en representación. Pero cuando aumentan, especialmente bajo voto obligatorio y en una segunda vuelta marcada por polos opuestos, ayudan a mirar la distancia entre una parte del electorado y la oferta presidencial. Este reportaje busca analizar cada votación presidencial y cómo y por qué se producen más o menos votos nulos. Analizamos temas como polarización y los contextos particulares de cada elección.
+#### Nuestra hipótesis inicial postulaba que la cantidad de nulos desde la vuelta a la democracia han aumentado cuando las elecciones muestran candidatos más extremos, sin presencia de candidatos "moderados". Identificaríamos temas como la crisis de confianza y representación.
+#### Si bien los temas abordados si salieron, los candidatos más extremos, la confianza, la representación y la polarización. No se confirma que cada vez que hay extremos los nulos suben. Esto, vemos que es porque el significado del voto nulo varía segñun el contexto particular de cada elección por sí sola.
+### Autoría
+#### Erick Liu se centró en la construcción de la webstory en sí, se encargó del código y las visualizaciones.
+#### Florencia Aguirre se centró más en el enfoque narrativo del proyecto, viendo qué historias contar con cada visualización y que nuevos enfoques les podemos dar.
+#### Vicente Soza se encargó de la revisión de la página, datos y orden en el repositorio. Así mismo aportó en la narrativa del proyecto.
