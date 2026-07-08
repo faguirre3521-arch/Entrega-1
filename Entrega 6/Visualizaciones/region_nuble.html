@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300, "strokeWidth": 0}, "axis": {"gridColor": "#e5e7eb", "labelFontSize": 11, "titleFontSize": 12}, "legend": {"orient": "top", "title": null}}, "data": {"name": "data-f90b4849ed01f7d677dec1e8bdfafa28"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"field": "vuelta_label", "scale": {"domain": ["Primera vuelta", "Segunda vuelta"], "range": ["#64748b", "#d94841"]}, "title": null, "type": "nominal"}, "detail": {"field": "vuelta_label", "type": "nominal"}, "tooltip": [{"field": "region", "title": "Regi\u00f3n", "type": "nominal"}, {"field": "anio", "format": "d", "title": "A\u00f1o", "type": "quantitative"}, {"field": "vuelta_label", "title": "Vuelta", "type": "nominal"}, {"field": "pct_nulos_blancos", "format": ".2f", "title": "% nulos + blancos", "type": "quantitative"}, {"field": "nulos_blancos", "format": ",", "title": "Nulos + blancos", "type": "quantitative"}, {"field": "votos_emitidos", "format": ",", "title": "Votos emitidos", "type": "quantitative"}], "x": {"axis": {"format": "d", "labelAngle": 0, "values": [1989, 1993, 1999, 2005, 2009, 2013, 2017, 2021, 2025]}, "field": "anio", "scale": {"domain": [1989, 2025]}, "title": "A\u00f1o", "type": "quantitative"}, "y": {"axis": {"format": ".1f"}, "field": "pct_nulos_blancos", "title": "% nulos + blancos", "type": "quantitative"}}, "height": 420, "title": {"text": "Evoluci\u00f3n del voto nulo y blanco en \u00d1uble", "subtitle": "Porcentaje de votos nulos y blancos en elecciones presidenciales, 1989\u20132025", "anchor": "start", "fontSize": 18, "subtitleFontSize": 12, "subtitleColor": "#374151"}, "width": 820, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-f90b4849ed01f7d677dec1e8bdfafa28": [{"eleccion_id": "2021_1", "anio": 2021, "vuelta": 1, "region_codigo": 16, "region": "\u00d1uble", "region_fuente": "\u00d1uble", "division_regional": "16 regiones", "nulos": 1645, "blancos": 1250, "nulos_blancos": 2895, "votos_emitidos": 193860, "pct_nulos_blancos": 1.493346, "nota_limite_regional": "Divisi\u00f3n regional de 16 regiones.", "vuelta_label": "Primera vuelta"}, {"eleccion_id": "2025_1", "anio": 2025, "vuelta": 1, "region_codigo": 16, "region": "\u00d1uble", "region_fuente": "DE \u00d1UBLE", "division_regional": "16 regiones", "nulos": 10049, "blancos": 4435, "nulos_blancos": 14484, "votos_emitidos": 406368, "pct_nulos_blancos": 3.564257, "nota_limite_regional": "Divisi\u00f3n regional de 16 regiones.", "vuelta_label": "Primera vuelta"}, {"eleccion_id": "2021_2", "anio": 2021, "vuelta": 2, "region_codigo": 16, "region": "\u00d1uble", "region_fuente": "\u00d1uble", "division_regional": "16 regiones", "nulos": 1711, "blancos": 578, "nulos_blancos": 2289, "votos_emitidos": 235908, "pct_nulos_blancos": 0.970294, "nota_limite_regional": "Divisi\u00f3n regional de 16 regiones.", "vuelta_label": "Segunda vuelta"}, {"eleccion_id": "2025_2", "anio": 2025, "vuelta": 2, "region_codigo": 16, "region": "\u00d1uble", "region_fuente": "DE \u00d1UBLE", "division_regional": "16 regiones", "nulos": 21161, "blancos": 4047, "nulos_blancos": 25208, "votos_emitidos": 405097, "pct_nulos_blancos": 6.222707, "nota_limite_regional": "Divisi\u00f3n regional de 16 regiones.", "vuelta_label": "Segunda vuelta"}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
