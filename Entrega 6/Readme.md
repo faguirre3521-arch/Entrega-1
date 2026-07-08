@@ -11,10 +11,10 @@ Si bien los temas abordados si salieron, los candidatos más extremos, la confia
 | Búsqueda y organización de datos | X | X | X |
 | Análisis de votos nulos y blancos | X | X | X |
 | Sistema electoral |  |  | X |
-| Segunda vuelta | X | X |  |
+| Segunda vuelta |  | X |  |
 | Análisis de polarización | X |  |  |
 | Visualizaciones nacionales | X | X | X |
-| Visualizaciones regionales |  |  | X |
+| Visualizaciones regionales |  | X |  |
 | Redacción de la historia | X | X | X |
 | Diseño visual y moodboard | X |  |  |
 | Wireframe | X |  |  |
